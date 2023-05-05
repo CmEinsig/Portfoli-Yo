@@ -15,8 +15,6 @@ The user will be able to search for other professionals within a community to lo
 
 ## Credits
 
-[Helmy, Atef](https://github.com/AtefHelmy )
-
 [Rothman, Elva](https://github.com/erothman1)
 
 [Einsig, Courtney](https://github.com/CmEinsig)
